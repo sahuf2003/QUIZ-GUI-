@@ -1,3 +1,5 @@
+<img src="https://github.com/sahuf2003/QUIZ-GUI-/images/Quiz_app.png">
+
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
 ![](https://img.shields.io/badge/Main_Tool_Used-Tkinter-orange.svg)
 ![](https://img.shields.io/badge/Support_Tool_Used-smtplib,requests-orange.svg)
