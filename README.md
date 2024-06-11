@@ -1,6 +1,7 @@
-<p align="center"><img src="https://github.com/sahuf2003/QUIZ-GUI-/blob/main/images/Quiz_app.png" alt="gif" height="100px" width="100px" ok"/><br></p>
+<p align="center"><img src="https://github.com/sahuf2003/QUIZ-GUI-/blob/main/images/quizlol.png" alt="gif" height="300px" width="550px" ok"/><br></p>
 
-<p align="center">![image](https://github.com/sahuf2003/QUIZ-GUI-/assets/127684377/468603b5-f8de-4eb5-9ebe-81d5e5c1e9de) </p>
+<br>
+
 
 
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
@@ -54,4 +55,3 @@
 
 ## License <a name = "license"></a>
 
-> This software is licensed under MIT License, See [License](https://github.com/) for more information ©sahuf2003
