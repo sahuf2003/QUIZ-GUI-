@@ -63,7 +63,6 @@ quiz-app/
 ├── main.py             # Entry point of the application
 ├── ui.py               # Contains the Tkinter GUI class
 ├── quiz_brain.py       # Contains logic of quiz
-├── email_service.py    # Manages email sending functionality
 ├── question_model.py   # Contains Question class 
 ├── data.py             # Contains the api request
 ├── players.csv         # Stores the user data in csv file
