@@ -21,7 +21,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project_ScreenShots](#Project-ScreesShots)
+- [Project_ScreenShots](#Project-ScreenShots)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Contributor](#contributor)
@@ -50,7 +50,7 @@ python main.py
 ```
 A GUI window will open, allowing you to start the quiz, answer questions, and submit your results via email.
 
-## Project Screenshots
+## Project ScreenShots
 <p align="center"><img src="https://github.com/sahuf2003/QUIZ-GUI-/blob/main/images/quiz.png" alt="gif" height="300px" width="550px" ok"/><br></p>
 
 ## Project Structure
