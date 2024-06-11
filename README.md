@@ -1,4 +1,7 @@
-<p><img src="https://github.com/sahuf2003/QUIZ-GUI-/blob/main/images/Quiz_app.png" align="center">
+<p align="center"><img src="https://github.com/sahuf2003/QUIZ-GUI-/blob/main/images/Quiz_app.png" alt="gif" height="100px" width="100px" ok"/><br></p>
+
+<p align="center">![image](https://github.com/sahuf2003/QUIZ-GUI-/assets/127684377/468603b5-f8de-4eb5-9ebe-81d5e5c1e9de) </p>
+
 
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
 ![](https://img.shields.io/badge/Main_Tool_Used-Tkinter-orange.svg)
@@ -11,7 +14,7 @@
 ---
 ### <p align="center" style="color: blue">***Hello Programmers, Quiz App <p align="center" style="color: red">using oops concepts and api </p> <p align="center" style="color: blue">Using</p> <p align="center" style="color: red">Python Tkinter***</p></p>
 
-<p align="center"> <img alt="gif" height="400px" width="550px" ok"/><br></p>
+
 
 ---
 ### <p align="left" style="color: brown">⚒️ _Important Module Used Here:_</p>
