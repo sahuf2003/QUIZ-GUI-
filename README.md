@@ -1,5 +1,6 @@
-<p align="center"><img src="https://github.com/sahuf2003/QUIZ-GUI-/blob/main/images/quizlol.png" alt="gif" height="300px" width="550px" ok"/><br></p>
+# Quiz Application
 
+<p align="center"><img src="https://github.com/sahuf2003/QUIZ-GUI-/blob/main/images/quizlol.png" alt="gif" height="300px" width="550px" ok"/><br></p>
 <br>
 
 
@@ -12,33 +13,72 @@
 ![](https://img.shields.io/badge/APi_used-Trivia-red.svg)
 ![](https://img.shields.io/badge/Status-Complete-green.svg)
 
----
-### <p align="center" style="color: blue">***Hello Programmers, Quiz App <p align="center" style="color: red">using oops concepts and api </p> <p align="center" style="color: blue">Using</p> <p align="center" style="color: red">Python Tkinter***</p></p>
-
-
 
 ---
-### <p align="left" style="color: brown">⚒️ _Important Module Used Here:_</p>
-- ***_Tkinter_***
-- ***_smtplib_***
-- ***requests_***
 
-### <p align="left" style="color: brown">➡️ _Steps for Download and Install python requirements as:_</p>
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Dependencies](#dependencies)
+- [Contributor](#contributor)
 
+## Introduction
+Welcome to the Trivia Quiz Application! This project is a fun and interactive quiz application that leverages a trivia API to fetch questions and provides a user-friendly interface using `tkinter`. It also integrates email functionality via `smtplib` to send quiz results. The project is built using Object-Oriented Programming (OOP) principles to ensure modularity and maintainability.
+
+## Features
+- Fetch trivia questions from an API.
+- Interactive GUI built with `tkinter`.
+- Email quiz results using `smtplib`.
+- OOP design for better code organization and extensibility.
+
+## Installation
+To get a local copy up and running, follow these simple steps:
+
+1. **Install dependencies:**
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+## Usage
+To start the application, run the following command:
+```sh
+python main.py
 ```
-1. Open Command Prompt(cmd) or Terminal
-2. Write as-->
-        pip install -r requirements.txt
+A GUI window will open, allowing you to start the quiz, answer questions, and submit your results via email.
+
+## Project Structure
+```
+quiz-app/
+│
+├── images/              # Contains images used in the GUI
+│   ├── false.png
+│   └── true.png
+├── main.py             # Entry point of the application
+├── ui.py               # Contains the Tkinter GUI class
+├── quiz_brain.py       # Contains logic of quiz
+├── email_service.py    # Manages email sending functionality
+├── question_model.py   # Contains Question class 
+├── data.py             # Contains the api request
+├── players.csv         # Stores the user data in csv file
+│
+└── requirements.txt    # List of dependencies
 ```
 
----
+## Dependencies
+- `tkinter`: For the GUI.
+- `smtplib`: For sending emails.
+- `requests`: For making API requests.
+- Trivia API: Used to fetch trivia questions (e.g., Open Trivia Database).
 
+You can install all dependencies using:
+```sh
+pip install -r requirements.txt
+```
 
-
-
-
-
-## Contributor <a name = "Contributor"></a>
+## Contributor
 
 <table>
   <tr>
@@ -52,6 +92,3 @@
     
   </tr>
  </table>
-
-## License <a name = "license"></a>
-
