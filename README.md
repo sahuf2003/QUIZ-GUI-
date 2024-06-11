@@ -1,4 +1,4 @@
-<img src="https://github.com/sahuf2003/QUIZ-GUI-/blob/main/images/Quiz_app.png">
+<p><img src="https://github.com/sahuf2003/QUIZ-GUI-/blob/main/images/Quiz_app.png" align="center">
 
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
 ![](https://img.shields.io/badge/Main_Tool_Used-Tkinter-orange.svg)
