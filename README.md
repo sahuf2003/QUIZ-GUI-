@@ -53,6 +53,10 @@ A GUI window will open, allowing you to start the quiz, answer questions, and su
 ## Project Screenshots
 <p align="center"><img src="https://github.com/sahuf2003/QUIZ-GUI-/blob/main/images/quiz.png" alt="gif" height="300px" width="550px" ok"/><br></p>
 
+<br>
+<p align="center"><img src="https://github.com/sahuf2003/QUIZ-GUI-/blob/main/images/right_and_wrong_answer.png" alt="gif" height="300px" width="550px" ok"/><br></p>
+
+
 ## Project Structure
 ```
 quiz-app/
